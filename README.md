@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Sahil
 
-<!--
-**SAHIL-DEV-1702/SAHIL-DEV-1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2024 B.Sc CS graduate and a MERN stack developer passionate about building full-stack web applications.
 
-Here are some ideas to get you started:
+💻 I build responsive and interactive web apps using **JavaScript, React, Node.js, Express, MongoDB, HTML, CSS, Tailwind**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently exploring **Advanced React, Next.js**, and working on improving my full-stack skills.  
+
+🚀 Open to **fresher roles and internships** | Always eager to **learn and contribute to open-source projects**  
+
+---
+
+## 🛠️ Skills
+- **Frontend:** React, HTML, CSS, Tailwind
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Tools:** Git, VS Code, Postman
+
+---
+
+## 🌱 Learning Goals
+- Advanced React & Next.js
+- Backend optimizations & API integrations
+- Jest 
+---
+
+## 📈 GitHub Stats
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAHIL-DEV-1702&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact
+- Email: patilsahil1702@gmail.com  
+- LinkedIn: linkedin.com/in/sahil-patil-9a2b80307  
