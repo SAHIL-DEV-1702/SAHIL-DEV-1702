@@ -11,7 +11,7 @@ I'm a 2024 B.Sc CS graduate and a MERN stack developer passionate about building
 ---
 
 ## 🛠️ Skills
-- **Frontend:** React, HTML, CSS, Tailwind
+- **Frontend:** JavaScript, React, HTML, CSS, Tailwind
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
 - **Tools:** Git, VS Code, Postman
