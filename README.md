@@ -2,26 +2,18 @@
 
 I'm a 2024 B.Sc CS graduate and a MERN stack developer passionate about building full-stack web applications.
 
-💻 I build responsive and interactive web apps using **JavaScript, React, Node.js, Express, MongoDB, HTML, CSS, Tailwind**.  
+💻 I build responsive and interactive web apps using ** Node.js, Express, React, JavaScript, MongoDB, HTML, CSS, Tailwind**.  
 
-🌱 Currently exploring **Advanced React, Next.js**, and working on improving my full-stack skills.  
-
-🚀 Open to **fresher roles and internships** | Always eager to **learn and contribute to open-source projects**  
+🚀 Open to **fresher roles and internships** | Always eager to **learn new skills
 
 ---
 
 ## 🛠️ Skills
-- **Frontend:** JavaScript, React, HTML, CSS, Tailwind
 - **Backend:** Node.js, Express
+- **Frontend:** React, JavaScript, HTML, CSS, Tailwind
 - **Database:** MongoDB
 - **Tools:** Git, VS Code, Postman
 
----
-
-## 🌱 Learning Goals
-- Advanced React & Next.js
-- Backend optimizations & API integrations
-- Jest 
 ---
 
 ## 📈 GitHub Stats
