@@ -26,7 +26,8 @@ I'm a **2024 B.Sc Computer Science graduate** and a **MERN Stack Developer** pas
 
 ## 📈 GitHub Stats
 
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAHIL-DEV-1702&show_icons=true&theme=radical)
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAHIL-DEV-1702&show_icons=true&theme=radical&cache_seconds=1800)
+
 
 ---
 
