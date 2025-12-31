@@ -9,8 +9,6 @@ I'm a **2024 B.Sc Computer Science graduate** and a **MERN Stack Developer** pas
 
 ## 🛠️ Skills
 
-## 🛠️ Skills
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
